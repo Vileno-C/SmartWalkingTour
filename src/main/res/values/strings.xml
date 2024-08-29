@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Walking Tour</string>
+    <string name="title_activity_list">Selecione os locais que irá visitar</string>
+    <string name="title_activity_maps">Maps</string>
+
+    <string-array name="location_options">
+        <item>São Carlos</item>
+        <item>Planetas USP São Carlos</item>
+        <item>Faces ICMC</item>
+    </string-array>
+</resources>
